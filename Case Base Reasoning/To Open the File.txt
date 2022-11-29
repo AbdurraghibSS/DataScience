@@ -1,6 +1,6 @@
 To run the file, 
 
-1. You have to install Streamlit (pip install streamlit) in your device
+1. You have to install Streamlit (pip install streamlit) in your device and make sure you hava installed all the required libraries (see in the file)
 2. Open command prompt
-3. Go to speech_to_text directory (where you save the file)
-4. Type in "streamlit run Speech_to_Text.py"
+3. Go to cbr_weather_pred directory (where you save the file)
+4. Type in "streamlit run cbr_weather_pred.py"
